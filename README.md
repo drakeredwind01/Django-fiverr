@@ -1,2 +1,2 @@
-# Django-fiverr
-Micro job site
+# fiverr
+A fiverr marketplace clone in Django
